@@ -79,6 +79,10 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+      },
+    "hmer": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "黑木耳资源"
     }
   }
 }
